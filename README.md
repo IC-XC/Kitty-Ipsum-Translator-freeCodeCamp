@@ -1,3 +1,3 @@
-## 📖 Kitty-Ipsum-Translator-freeCodeCamp
+# 📖 Kitty-Ipsum-Translator-freeCodeCamp
 
-### 👀  There's more to Bash commands than you might think.
+# 👣  👀  Relational Database - Learn Advanced Bash by Building a Kitty Ipsum Translator
